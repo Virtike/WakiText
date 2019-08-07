@@ -1,0 +1,2 @@
+# WakiText
+WakiText Chrome Extension
